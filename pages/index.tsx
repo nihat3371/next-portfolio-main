@@ -27,7 +27,7 @@ const Home = ({ pageInfo, experiences, projects, skills, socials }: Props) => {
     <>
       <div className="bg-black/90 text-white h-screen snap-y snap-mandatory overflow-scroll z-0 overflow-y-scroll overflow-x-hidden  scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-stone-300">
         <Head>
-          <title>Nihat Aydin Portfolio</title>
+          <title>Nihat Aaaaaaaaaaaaaaaaaaaaa Portfolio</title>
           <script
             async
             src="https://www.googletagmanager.com/gtag/js?id=G-FR5LZ3T3WD"
